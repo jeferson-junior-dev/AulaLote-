@@ -1,0 +1,5 @@
+================================================== 
+Inicio: 18/08/2026 20:47:45,95 
+Banco: db_techestoque 
+Arquivo: C:\teste\backups\completo\db_techestoque_2026-08-18_20-47-45.sql 
+mysqldump: Got error: 1045: Access denied for user 'root'@'localhost' (using password: YES) when trying to connect

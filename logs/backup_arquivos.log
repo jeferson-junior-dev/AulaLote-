@@ -1,0 +1,66 @@
+================================================== 
+Inicio: 18/08/2026 20:10:23,02 
+Origem: C:\teste\dados 
+Destino: C:\teste\backups\arquivos\backup_2026-08-18_20-10-23 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: ter‡a-feira, 18 de agosto de 2026 20:10:23
+   Origem : C:\teste\dados\
+     Destino : C:\teste\backups\arquivos\backup_2026-08-18_20-10-23\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\teste\dados\
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         0         0         0         0         0         0
+    Bytes:         0         0         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: ter‡a-feira, 18 de agosto de 2026 20:10:23
+
+Resultado: sucesso. Codigo 0 
+Termino: 18/08/2026 20:10:23,05 
+================================================== 
+================================================== 
+Inicio: 18/08/2026 20:28:36,31 
+Origem: C:\teste\dados 
+Destino: C:\teste\backups\arquivos\backup_2026-08-18_20-28-36 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: ter‡a-feira, 18 de agosto de 2026 20:28:36
+   Origem : C:\teste\dados\
+     Destino : C:\teste\backups\arquivos\backup_2026-08-18_20-28-36\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\teste\dados\
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         0         0         0         0         0         0
+    Bytes:         0         0         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: ter‡a-feira, 18 de agosto de 2026 20:28:36
+
+Resultado: sucesso. Codigo 0 
+Termino: 18/08/2026 20:28:36,34 
+================================================== 

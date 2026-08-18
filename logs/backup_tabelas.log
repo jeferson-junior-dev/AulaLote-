@@ -1,0 +1,4 @@
+================================================== 
+Inicio do backup: 18/08/2026 20:41:02,33 
+mysqldump: Got error: 1045: Access denied for user 'root'@'localhost' (using password: YES) when trying to connect
+Falha: 18/08/2026 20:41:02,39 
